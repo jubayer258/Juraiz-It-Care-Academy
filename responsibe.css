@@ -1,0 +1,487 @@
+@media (min-width: 1281px){
+    .icon{
+        width: 400px;
+        padding-left: 30px;
+    }
+    .logo{
+        font-size: 30px;
+        padding-top: 25px;
+    }
+    .menu{
+        width: 700px;
+        padding-left: 65px;
+    }
+    ul li{
+        margin-left:30px;
+        margin-top: 22px;
+    }
+    ul li a{
+        font-size: 16px;
+    }
+    .content h1{
+        font-size: 35px;
+        padding-left: 30px;
+    }
+    .content .par{
+        padding-left: 30px;
+        font-size: 15px;
+    }
+   .cn{
+        margin-left: 25px;
+    }
+    .form{
+        width: 200px;
+        left: 780px;
+    }
+    .form h2{
+        margin-top: 10px
+        ;
+        width: 180px;
+        font-size: 22px;
+    }
+    .form input{
+        width: 200px;
+        margin-top: 20px;
+    }
+    .btnn{
+        width: 210px;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+    .icon{
+        width: 300px;
+        padding-left: 25px;
+    }
+    .logo{
+        font-size: 20px;
+        padding-top: 25px;
+    }
+    .menu{
+        width: 700px;
+        padding-left: 35px;
+    }
+    ul{
+        float: left;
+    }
+    ul li{
+        margin-left:30px;
+        margin-top: 22px;
+    }
+    .content h1{
+        font-size: 35px;
+        padding-left: 25px;
+    }
+    .content .par{
+        width: 600px;
+        padding-left: 25px;
+        font-size: 18px;
+        text-align: justify;
+    }
+   .cn{
+        margin-left: 25px;
+    }
+    .form{
+        width: 200px;
+        left: 615px;
+    }
+    .form h2{
+        margin-top: 10px
+        ;
+        width: 180px;
+        font-size: 22px;
+    }
+    .form input{
+        width: 200px;
+        margin-top: 20px;
+    }
+    .btnn{
+        width: 210px;
+    }
+  }
+  @media (min-width: 830px) and (max-width: 1024px){
+    .header{
+        height: 100PX;
+    }
+    .icon{
+        margin-left: 230px;
+        margin-bottom: 0px;
+    }
+    ul{
+        margin-bottom: 30px;
+    }
+    .main{
+        height: 950px;
+    }
+    .content h1{
+        font-size: 45px;
+        margin-left: 200px;
+    }
+    .content h1 span{
+        margin-left: 30px;
+    }
+    .content .par{
+        letter-spacing: 1px;
+        line-height: 25px;
+        margin-left: 100px;
+        margin-top: 20px;
+    }
+    .content .cn{
+        margin-left: 310px;
+       
+    }
+    .form{
+       margin-top: 430px; 
+       margin-left: 240px;
+    }
+}
+@media (min-width: 481px) and (max-width: 829px) {
+  
+    .icon{
+        margin-left: 100px;
+    }
+    .logo{
+        font-size: 20px;
+    }
+    ul li{
+        font-size: 12px;
+        margin-left: 17px;
+        margin-top: 5px;
+    }
+    .main{
+        height: 990px;
+    }
+    .content h1{
+        font-size: 35px;
+        margin-left: 70px;
+    }
+    .content h1 span{
+        margin-left: 50px;
+        font-size: 35px;
+    }
+    .content .par{
+        width: 400px;
+        font-size: 15px;
+        line-height: 20px;
+        margin-left: 29px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .content .cn{
+        margin-left: 150px;
+        margin-top: 30px; 
+    }
+    .form{
+        margin-top: 440px; 
+        margin-left: 80px;
+     }
+  }
+
+  @media (min-width: 320px) and (max-width: 480px) {
+  
+    .icon{
+        width: 381px;
+        margin-left: 70px;
+        display: inline-block;
+    }
+    .logo{
+        font-size: 16px;
+    }
+    ul li{
+        font-size: 8px;
+        margin-left: 12px;
+        margin-top: 1px;
+    }
+    .main{
+        height: 990px;
+    }
+    .content h1{
+        font-size: 22px;
+        margin-left: 50px;
+    }
+    .content h1 span{
+        margin-left: 40px;
+        font-size: 22px;
+    }
+    .content .par{
+        width: 290px;
+        font-size: 12px;
+        line-height: 15px;
+        margin-left: 20px;
+        margin-top: 20px;
+        text-align: center;
+    }
+    .content .cn{
+        margin-left: 90px;
+        margin-top: 20px; 
+    }
+    .form{
+        width: 200px;
+        height: 380px;
+        margin-top: 360px; 
+        margin-left: 35px;
+    }
+    .form h2{
+        width: 180px;
+    }
+    .form input{
+        width: 200px;
+    }    
+    .btnn{
+        width: 200px;
+    }
+}
+@media (min-width: 600px) and (max-width: 829px){
+    .icon{
+        width: 500px;
+        margin-left: 130px;
+        display: inline-block;
+    }
+    .logo{
+        font-size: 25px;
+    }
+    ul li{
+        font-size: 16px;
+        margin-left: 16px;
+        margin-top: 1px;
+    }
+    .main{
+        height: 1000px;
+    }
+    .content h1{
+        font-size: 45px;
+        margin-left: 90px;
+    }
+    .content h1 span{
+        margin-left: 85px;
+        font-size: 45px;
+    }
+    .content .par{
+        width: 390px;
+        font-size: 18px;
+        line-height: 20px;
+        margin-left: 100px;
+        margin-top: 20px;
+    }
+    .content .cn {
+        margin-left: 210px;
+        margin-top: 12px; 
+    }
+    .form{
+        margin-top: 460px; 
+        margin-left: 140px;
+     }
+}
+@media (min-width: 830px) and (max-width: 1024px){
+    .icon{
+        margin-left: 30px;
+    }
+    ul li{
+        font-size: 16px;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .content h1{
+        font-size: 40px;
+        margin-left: 30px;
+        position: absolute;
+        
+    }
+    .content h1 span{
+        margin-left: 50px;
+        font-size: 40px;
+        width: 400px;
+    }
+    .content .par{
+        width: 500px;
+        font-size: 20px;
+        line-height: 30px;
+        margin-left: 490px;
+        margin-top: 100px;
+        position: absolute;
+        text-align: right;
+    }
+    .content .cn {
+        margin-left: 390px;
+        margin-top: 340px; 
+    }
+    .form{
+        margin-top: 350px; 
+        margin-left: 312px;
+     }
+}
+@media (min-width: 1800px) and (max-width: 2000px){
+    .icon{
+        width: 600px;
+        padding-left: 30px;
+        position: absolute;
+    }
+    .logo{
+        font-size: 40px;
+        padding-top: 25px;
+    }
+    .menu{
+        width: 1200px;
+        padding-left: 705px;
+    }
+    ul li{
+        margin-left:30px;
+        margin-top: 25px;
+    }
+    .content h1{
+        font-size: 45px;
+        padding-left: 30px;
+    }
+    .content h1 span{
+        margin-left: 50px;
+        font-size: 45px;
+    }
+    .content .par {
+        padding-left:30px;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .content .cn{
+        width: 180px;
+        height: 60px;
+        background: #ff7200;
+        border: none;
+        margin-bottom: 10px;
+        font-size: 25px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    .cn:hover{
+        background-color: #fff;
+    }
+    .form{
+        width: 350px;
+        height: 400px;
+        left: 1220px;
+    }
+    .form h2{
+        margin-top: 10px;
+        width: 290px;
+        font-size: 25px;
+        padding-left: 50px;
+        text-align: center;
+    }
+    .form input{
+        width: 300px;
+        margin-top: 30px;
+        padding-left: 50px;
+        font-size: 18px;
+        text-align: left;
+    }
+    .btnn{
+        width: 360px;
+        padding-left: 50px;
+        text-align: center;
+        font-size: 25px;
+    }
+    .form .link{
+        font-size: 20px;
+    }
+    .form .link a{
+        font-size: 20px;
+    }
+    .liw{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+@media (min-width: 1600px) and (max-width: 1799px){
+    .icon{
+        width: 600px;
+        padding-left: 30px;
+        position: absolute;
+    }
+    .logo{
+        font-size: 40px;
+        padding-top: 25px;
+    }
+    .menu{
+        width: 1200px;
+        padding-left: 705px;
+    }
+    ul li{
+        margin-left:30px;
+        margin-top: 25px;
+    }
+    .content h1{
+        font-size: 45px;
+        padding-left: 30px;
+    }
+    .content h1 span{
+        margin-left: 50px;
+        font-size: 45px;
+    }
+    .content .par {
+        padding-left:30px;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .content .cn{
+        width: 180px;
+        height: 60px;
+        background: #ff7200;
+        border: none;
+        margin-bottom: 10px;
+        font-size: 25px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    .cn:hover{
+        background-color: #fff;
+    }
+    .form{
+        width: 300px;
+        height: 400px;
+        left: 1150px;
+    }
+    .form h2{
+        margin-top: 10px;
+        width: 250px;
+        font-size: 25px;
+        padding-left: 40px;
+        text-align: center;
+    }
+    .form input{
+        width: 250px;
+        margin-top: 30px;
+        padding-left: 50px;
+        font-size: 18px;
+        text-align: left;
+    }
+    .btnn{
+        width: 300px;
+        padding-left: 50px;
+        text-align: center;
+        font-size: 25px;
+    }
+    .form .link{
+        font-size: 20px;
+    }
+    .form .link a{
+        font-size: 20px;
+    }
+    .liw{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+@media (min-width: 1400px) and (max-width: 1599px){
+    .form{
+        width: 200px;
+        height: 400px;
+        left: 950px;
+    }
+    .content h1 span{
+        margin-left: 30px;
+        font-size: 45px;
+    }
+}
+@media (min-width: 1282px) and (max-width: 1399px){
+
+}
